@@ -1,12 +1,12 @@
 body {
   background-color: cyan;
 }
-.jesus {
+h1 {
   color: hotpink;
 }
-.jesus {
+h1 {
   -webkit-transform: rotate(-7deg);
 }
-.jesus {
+h1 {
 font-family: "Comic Sans MS", "Comic Sans", cursive;}
 .back {font-size: 35px;}
